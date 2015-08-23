@@ -1,6 +1,8 @@
 # 01: Простой лендинг на Bootstrap
 
-(Дата и время уточняется.)
+Когда: 23 августа 2015, 18:00 по Новосибирску.
+
+Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-01.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=xG9_IfmJlig).
 
 
 ## Что сделать перед занятием?
@@ -21,3 +23,15 @@
 * Сохраним ее в Git.
 
 * Положим ее куда-нибудь, чтобы мир мог ее увидеть. :-)
+
+
+## Ссылки
+
+* [getbootstrap.com](http://getbootstrap.com/) — Bootstrap
+
+Темы для Boostrap:
+
+* [Bootswatch](http://bootswatch.com/) — бесплатные простые
+* [StartBootstrap](http://startbootstrap.com/) — бесплатные более сложные
+* [WrapBootstrap](https://wrapbootstrap.com/) — платные
+* [Bootstrap Live Customizer](http://bootstrap-live-customizer.com/) — кастомизация тем вручную
