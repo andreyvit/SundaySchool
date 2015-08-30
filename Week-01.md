@@ -4,7 +4,7 @@
 
 Когда: 23 августа 2015, 18:00 по Новосибирску.
 
-Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-01-800p.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=iVoXNzoEvL0).
+Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-01-800p.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=vPccLdv3IkU).
 
 
 ## Что сделать перед занятием?

@@ -4,7 +4,7 @@
 
 Когда: 30 августа 2015, 18:30 по Новосибирску.
 
-Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-02-800p.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=vPccLdv3IkU).
+Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-02-800p.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=iVoXNzoEvL0).
 
 
 ## Содержимое занятия 02
