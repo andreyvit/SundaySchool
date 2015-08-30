@@ -1,8 +1,10 @@
-# 01: Простой лендинг на Bootstrap
+# A01: Простой лендинг на Bootstrap
+
+Сделаем простую веб-страницу с использованием HTML5 и Bootstrap, а также сохраним наши труды в Git.
 
 Когда: 23 августа 2015, 18:00 по Новосибирску.
 
-Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-01.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=xG9_IfmJlig).
+Видео: [скачать в полном качестве](http://media.sunday-school.ru/SundaySchool-01-800p.mp4) или [смотреть на YouTube](http://www.youtube.com/watch?v=iVoXNzoEvL0).
 
 
 ## Что сделать перед занятием?
