@@ -25,7 +25,9 @@
 
 ## Как записаться?
 
-Заходите и подписывайтесь на [наш канал на YouTube](http://www.youtube.com/channel/UCVC1BRUfiAc4txSrmJGrurQ).
+Заходите и подписывайтесь на наш канал на YouTube: [youtube.com/c/SundaySchoolRussia](https://www.youtube.com/c/SundaySchoolRussia).
+
+Также подписывайтесь на нашу страницу на Google+: [google.com/+SundaySchoolRussia](https://google.com/+SundaySchoolRussia).
 
 Чтобы записаться на сами занятия, обратитесь к [Андрею Таранцову в Telegram](https://telegram.me/andreyvit).
 
